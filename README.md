@@ -1,6 +1,7 @@
 ## MACHINE LEARNING NOTEBOOKS
 
 These are Machine Learning notebooks where predictions were made on several datasets.
+They are a mixture of classification and Regression Supervised Machine Learning
 
 ### LIBRARIES
 Libraries used include:
